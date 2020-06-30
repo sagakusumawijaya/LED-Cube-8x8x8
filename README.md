@@ -5,7 +5,7 @@
 * [Part2](https://www.youtube.com/watch?v=yVZUEXGwSbg)
 
 ## Board
-* You can download schematic [here](Schematic_LED_Cube_8x8x8_Nano_Sheet_1_20200205105628.pdf)
+* You can download schematic [here](Schematic_LED_Cube_8x8x8_Nano_2020-05-19_12-22-00.pdf)
 * The board looks like these pictures shown below :
 ![](Pictures/board_0.jpg)
 
